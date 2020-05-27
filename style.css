@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-items: center;
+}
+
+#map {
+    width: 100%; 
+    height: 100%; 
+}
